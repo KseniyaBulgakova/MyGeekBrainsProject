@@ -1,0 +1,3 @@
+Report from Kseniya local computer:
+first data: 90
+second data: 376
